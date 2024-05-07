@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WODlF+rr0+6k1gozz/OARVLpOf4XVuTPPzlfq9I7SGmaJf3HJOUYGBl4IwFIdgpOtL1q+nnz2yrC6skEBz9Nug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\WorkshopManagement.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luisma\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\luisma\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\luisma\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\luisma\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\luisma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\luisma\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
