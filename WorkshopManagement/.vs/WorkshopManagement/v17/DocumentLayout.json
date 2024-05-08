@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "WorkshopManagement.Infrastructure\\Data\\WorkshopManagementDbContext.cs",
               "ToolTip": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\Data\\WorkshopManagementDbContext.cs",
               "RelativeToolTip": "WorkshopManagement.Infrastructure\\Data\\WorkshopManagementDbContext.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCcAAAAiAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-07T18:47:58.386Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "WorkshopManagement.Api\\Controllers\\AccidentController.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:36:37.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T18:36:37.194Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "WorkshopManagement.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T18:34:14.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T18:34:14.794Z"
             }
           ]
         }
