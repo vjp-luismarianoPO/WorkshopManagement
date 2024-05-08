@@ -1,26 +1,28 @@
-﻿using WorkshopManagement.Core.Entities;
+﻿using Microsoft.EntityFrameworkCore;
 using WorkshopManagement.Core.Interfaces;
+using WorkshopManagement.Infrastructure.Data;
 
 namespace WorkshopManagement.Infrastructure.Repositories
 {
-	public class AccidentRepository :IAccidentRepository
+	public class AccidentRepository : IAccidentRepository
 	{
+		private readonly WorkshopManagementDbContext _context;
+		public AccidentRepository(WorkshopManagementDbContext context)
+		{
+			_context = context;
+
+		}
 		async Task<IEnumerable<Accident>> IAccidentRepository.GetAccidents()
 		{
-			var accidents = Enumerable.Range(1, 10).Select(x=> new Accident
-			{
-				Id = x,
-				Type = $"{x}",
-				Date = DateTime.Now,
-				CompanyId = x,
-				TotalAmount = x,
-				ClientId = $"{x}",
-				SupplierId = x
-			});
-
-			await Task.Delay(10);
+			var accidents = await _context.Accidents.ToListAsync();
 
 			return accidents;
+		}
+
+		public async Task InsertAccident(Accident accident)
+		{
+			_context.Accidents.Add(accident);
+			await _context.SaveChangesAsync();
 		}
 	}
 }

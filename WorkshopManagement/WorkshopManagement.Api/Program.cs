@@ -1,4 +1,6 @@
+using Microsoft.EntityFrameworkCore;
 using WorkshopManagement.Core.Interfaces;
+using WorkshopManagement.Infrastructure.Data;
 using WorkshopManagement.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,12 +17,8 @@ builder.Services.AddTransient<IAccidentRepository, AccidentRepository>();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IApplicationBuilder, ApplicationBuilder>();
-//builder.Services.AddScoped<IAccidentService, AccidentService>();
-//builder.Services.AddScoped<IClientService, ClientService>();
-//builder.Services.AddScoped<ISupplierService, SupplierService>();
-//builder.Services.AddScoped<ICompanyService, CompanyService>();
 
-//builder.Services.AddDbContext<WorkshopManagementDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("WorkshopManagementDBConnectionString")));
+builder.Services.AddDbContext<WorkshopManagementDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("WorkshopManagementDBConnectionString")));
 
 var app = builder.Build();
 

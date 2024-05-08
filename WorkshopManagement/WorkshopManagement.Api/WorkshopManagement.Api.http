@@ -1,6 +1,6 @@
 @WorkshopManagement.Api_HostAddress = http://localhost:5276
 
-GET {{WorkshopManagement.Api_HostAddress}}/weatherforecast/
+GET {{WorkshopManagement.Api_HostAddress}}/api/Accident
 Accept: application/json
 
 ###

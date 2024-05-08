@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using WorkshopManagement.Core.Entities;
+﻿using WorkshopManagement.Infrastructure.Data;
 
 namespace WorkshopManagement.Core.Interfaces
 {
-	public interface IAccidentRepository 
+	public interface IAccidentRepository
 	{
 		Task<IEnumerable<Accident>> GetAccidents();
+		Task InsertAccident(Accident accident);
 	}
 }
