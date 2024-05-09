@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using WorkshopManagement.Infrastructure.Data.Configurations;
 
 namespace WorkshopManagement.Infrastructure.Data;

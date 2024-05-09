@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace WorkshopManagement.Infrastructure.Data;
+﻿namespace WorkshopManagement.Infrastructure.Data;
 
 public partial class Supplier
 {
-    public int Id { get; set; }
+	public int Id { get; set; }
 
-    public string? Name { get; set; }
+	public string? Name { get; set; }
 
-    public string? Phone { get; set; }
+	public string? Phone { get; set; }
 
-    public virtual ICollection<Accident> Accidents { get; set; } = new List<Accident>();
+	public virtual ICollection<Accident> Accidents { get; set; } = new List<Accident>();
 }

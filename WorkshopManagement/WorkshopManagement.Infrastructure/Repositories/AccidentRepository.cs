@@ -12,11 +12,16 @@ namespace WorkshopManagement.Infrastructure.Repositories
 			_context = context;
 
 		}
-		async Task<IEnumerable<Accident>> IAccidentRepository.GetAccidents()
+		public async Task<IEnumerable<Accident>> GetAccidents()
 		{
 			var accidents = await _context.Accidents.ToListAsync();
-
 			return accidents;
+		}
+
+		public async Task<Accident> GetAccident(int id)
+		{
+			var accident = await _context.Accidents.FirstOrDefaultAsync(x => x.Id == id);
+			return accident;
 		}
 
 		public async Task InsertAccident(Accident accident)
