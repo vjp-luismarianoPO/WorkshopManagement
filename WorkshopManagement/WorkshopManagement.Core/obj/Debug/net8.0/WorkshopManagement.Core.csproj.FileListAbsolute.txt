@@ -10,3 +10,16 @@ C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagemen
 C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\refint\WorkshopManagement.Core.dll
 C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.pdb
 C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\ref\WorkshopManagement.Core.dll
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\bin\Debug\net8.0\WorkshopManagement.Core.deps.json
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\bin\Debug\net8.0\WorkshopManagement.Core.dll
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\bin\Debug\net8.0\WorkshopManagement.Core.pdb
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.csproj.AssemblyReference.cache
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.AssemblyInfoInputs.cache
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.AssemblyInfo.cs
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.sourcelink.json
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.dll
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\refint\WorkshopManagement.Core.dll
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\WorkshopManagement.Core.pdb
+C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Core\obj\Debug\net8.0\ref\WorkshopManagement.Core.dll

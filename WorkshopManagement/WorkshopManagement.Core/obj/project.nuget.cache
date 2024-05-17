@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2SWFxT9yA9ACeEfumVZvD/jQff+x7LZyCJp7bxWccDpRYFQh5HquYNnZ2Yn2Rq7WAM8oVyUWtoea1jDURXNQPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\WorkshopManagement.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luisma\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\luisma\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
