@@ -1,39 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lmper\\AppData\\Local\\Temp\\cwmwpk01..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{974E72E9-49F2-4C4E-BC0F-0D0D215DB461}|WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj|c:\\users\\lmper\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.infrastructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{974E72E9-49F2-4C4E-BC0F-0D0D215DB461}|WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj|solutionrelative:workshopmanagement.infrastructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|c:\\users\\lmper\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|solutionrelative:workshopmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|c:\\users\\lmper\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|solutionrelative:workshopmanagement.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|c:\\users\\lmper\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|solutionrelative:workshopmanagement.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|c:\\users\\lmper\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|solutionrelative:workshopmanagement.api\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|c:\\users\\lmper\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.api\\controllers\\accidentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{974E72E9-49F2-4C4E-BC0F-0D0D215DB461}|WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974E72E9-49F2-4C4E-BC0F-0D0D215DB461}|WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj|solutionrelative:workshopmanagement.infrastructure\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304B6C00-92EA-4E21-94C2-A2013B765A20}|WorkshopManagement.Core\\WorkshopManagement.Core.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.core\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304B6C00-92EA-4E21-94C2-A2013B765A20}|WorkshopManagement.Core\\WorkshopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\interfaces\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974E72E9-49F2-4C4E-BC0F-0D0D215DB461}|WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.infrastructure\\repositories\\accidentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974E72E9-49F2-4C4E-BC0F-0D0D215DB461}|WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj|solutionrelative:workshopmanagement.infrastructure\\repositories\\accidentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304B6C00-92EA-4E21-94C2-A2013B765A20}|WorkshopManagement.Core\\WorkshopManagement.Core.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.core\\interfaces\\iaccidentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304B6C00-92EA-4E21-94C2-A2013B765A20}|WorkshopManagement.Core\\WorkshopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\interfaces\\iaccidentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.api\\controllers\\accidentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|solutionrelative:workshopmanagement.api\\controllers\\accidentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lmper\\AppData\\Local\\Temp\\cwmwpk01..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{304B6C00-92EA-4E21-94C2-A2013B765A20}|WorkshopManagement.Core\\WorkshopManagement.Core.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.core\\dtos\\accidentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304B6C00-92EA-4E21-94C2-A2013B765A20}|WorkshopManagement.Core\\WorkshopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\dtos\\accidentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lmper\\AppData\\Local\\Temp\\cwmwpk01..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{304B6C00-92EA-4E21-94C2-A2013B765A20}|WorkshopManagement.Core\\WorkshopManagement.Core.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.core\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304B6C00-92EA-4E21-94C2-A2013B765A20}|WorkshopManagement.Core\\WorkshopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\dtos\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{304B6C00-92EA-4E21-94C2-A2013B765A20}|WorkshopManagement.Core\\WorkshopManagement.Core.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.core\\customeentities\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{304B6C00-92EA-4E21-94C2-A2013B765A20}|WorkshopManagement.Core\\WorkshopManagement.Core.csproj|solutionrelative:workshopmanagement.core\\customeentities\\metadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|solutionrelative:workshopmanagement.api\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{974E72E9-49F2-4C4E-BC0F-0D0D215DB461}|WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.infrastructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{974E72E9-49F2-4C4E-BC0F-0D0D215DB461}|WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj|solutionrelative:workshopmanagement.infrastructure\\mappings\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|solutionrelative:workshopmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|c:\\users\\luisma\\documents\\workshopmanagement\\workshopmanagement\\workshopmanagement.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B36236-689A-4ACB-81B6-00181488F2E1}|WorkshopManagement.Api\\WorkshopManagement.Api.csproj|solutionrelative:workshopmanagement.api\\controllers\\companycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,39 +62,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 217,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SQLQuery1.sql ",
-              "DocumentMoniker": "C:\\Users\\lmper\\AppData\\Local\\Temp\\cwmwpk01..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\cwmwpk01..sql",
-              "ToolTip": "SQLQuery1.sql *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-09T17:52:20.594Z",
+              "DocumentIndex": 1,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "WorkshopManagement.Infrastructure\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "WorkshopManagement.Infrastructure\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:27:31.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\Interfaces\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "WorkshopManagement.Core\\Interfaces\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\Interfaces\\IClientRepository.cs",
+              "RelativeToolTip": "WorkshopManagement.Core\\Interfaces\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T08:26:19.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccidentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\Repositories\\AccidentRepository.cs",
+              "RelativeDocumentMoniker": "WorkshopManagement.Infrastructure\\Repositories\\AccidentRepository.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\Repositories\\AccidentRepository.cs",
+              "RelativeToolTip": "WorkshopManagement.Infrastructure\\Repositories\\AccidentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:58:18.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccidentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\Interfaces\\IAccidentRepository.cs",
+              "RelativeDocumentMoniker": "WorkshopManagement.Core\\Interfaces\\IAccidentRepository.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\Interfaces\\IAccidentRepository.cs",
+              "RelativeToolTip": "WorkshopManagement.Core\\Interfaces\\IAccidentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:40:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Metadata.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\CustomeEntities\\Metadata.cs",
+              "RelativeDocumentMoniker": "WorkshopManagement.Core\\CustomeEntities\\Metadata.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\CustomeEntities\\Metadata.cs",
+              "RelativeToolTip": "WorkshopManagement.Core\\CustomeEntities\\Metadata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T07:48:09.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientDto.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\DTOs\\ClientDto.cs",
+              "RelativeDocumentMoniker": "WorkshopManagement.Core\\DTOs\\ClientDto.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\DTOs\\ClientDto.cs",
+              "RelativeToolTip": "WorkshopManagement.Core\\DTOs\\ClientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T21:17:48.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "AccidentDto.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\DTOs\\AccidentDto.cs",
+              "RelativeDocumentMoniker": "WorkshopManagement.Core\\DTOs\\AccidentDto.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\DTOs\\AccidentDto.cs",
+              "RelativeToolTip": "WorkshopManagement.Core\\DTOs\\AccidentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:15:40.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "AccidentController.cs",
-              "DocumentMoniker": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\AccidentController.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\AccidentController.cs",
               "RelativeDocumentMoniker": "WorkshopManagement.Api\\Controllers\\AccidentController.cs",
-              "ToolTip": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\AccidentController.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\AccidentController.cs",
               "RelativeToolTip": "WorkshopManagement.Api\\Controllers\\AccidentController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAsAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwC8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T11:48:55.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "AutomapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\Mappings\\AutomapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\Mappings\\AutomapperProfile.cs",
               "RelativeDocumentMoniker": "WorkshopManagement.Infrastructure\\Mappings\\AutomapperProfile.cs",
-              "ToolTip": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\Mappings\\AutomapperProfile.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\Mappings\\AutomapperProfile.cs",
               "RelativeToolTip": "WorkshopManagement.Infrastructure\\Mappings\\AutomapperProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,11 +183,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Program.cs",
               "RelativeDocumentMoniker": "WorkshopManagement.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Program.cs",
               "RelativeToolTip": "WorkshopManagement.Api\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,11 +196,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "SupplierController.cs",
-              "DocumentMoniker": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\SupplierController.cs",
               "RelativeDocumentMoniker": "WorkshopManagement.Api\\Controllers\\SupplierController.cs",
-              "ToolTip": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\SupplierController.cs",
               "RelativeToolTip": "WorkshopManagement.Api\\Controllers\\SupplierController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -110,11 +209,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "CompanyController.cs",
-              "DocumentMoniker": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\CompanyController.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\CompanyController.cs",
               "RelativeDocumentMoniker": "WorkshopManagement.Api\\Controllers\\CompanyController.cs",
-              "ToolTip": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\CompanyController.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\CompanyController.cs",
               "RelativeToolTip": "WorkshopManagement.Api\\Controllers\\CompanyController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,13 +222,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "ClientController.cs",
-              "DocumentMoniker": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "WorkshopManagement.Api\\Controllers\\ClientController.cs",
-              "ToolTip": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\Controllers\\ClientController.cs",
               "RelativeToolTip": "WorkshopManagement.Api\\Controllers\\ClientController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAATAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAEwDIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T11:09:57.403Z",
               "EditorCaption": ""

@@ -43,5 +43,22 @@ namespace WorkshopManagement.Api.Controllers
 			await _clientRepository.InsertClient(client);
 			return Ok(client);
 		}
+
+		[HttpPut]
+		public async Task<IActionResult> Put(int id, ClientDto clientDto)
+		{
+			var client = _mapper.Map<Client>(clientDto);
+			client.Id = id;
+
+			await _clientRepository.UpdateClient(client);
+			return Ok(client);
+		}
+
+		[HttpDelete]
+		public async Task<IActionResult> Delete(int id)
+		{
+			var result = await _clientRepository.DeleteClient(id);
+			return Ok(result);
+		}
 	}
 }

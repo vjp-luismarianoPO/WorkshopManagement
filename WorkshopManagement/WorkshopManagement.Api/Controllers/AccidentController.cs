@@ -44,5 +44,22 @@ namespace WorkshopManagement.Api.Controllers
 			return Ok(accident);
 		}
 
+		[HttpPut]
+		public async Task<IActionResult> Put(int id, AccidentDto accidentDto)
+		{
+			var accident = _mapper.Map<Accident>(accidentDto);
+			accident.Id = id;
+
+			await _accidentRepository.UpdateAccident(accident);
+			return Ok(accident);
+		}
+
+		[HttpDelete]
+		public async Task<IActionResult> Delete(int id)
+		{
+			var result = await _accidentRepository.DeleteAccident(id);
+			return Ok(result);
+		}
+
 	}
 }
