@@ -293,3 +293,4 @@ C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManageme
 C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\obj\Debug\net8.0\WorkshopManagement.Api.pdb
 C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\obj\Debug\net8.0\WorkshopManagement.Api.genruntimeconfig.cache
 C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\obj\Debug\net8.0\ref\WorkshopManagement.Api.dll
+C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

@@ -4737,23 +4737,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luisma\\.nuget\\packages\\": {},
+    "C:\\Users\\lmper\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\WorkshopManagement.Api.csproj",
+      "projectUniqueName": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\WorkshopManagement.Api.csproj",
       "projectName": "WorkshopManagement.Api",
-      "projectPath": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\WorkshopManagement.Api.csproj",
-      "packagesPath": "C:\\Users\\luisma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\obj\\",
+      "projectPath": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\WorkshopManagement.Api.csproj",
+      "packagesPath": "C:\\Users\\lmper\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\luisma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lmper\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4769,11 +4769,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\WorkshopManagement.Core.csproj": {
-              "projectPath": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\WorkshopManagement.Core.csproj"
+            "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\WorkshopManagement.Core.csproj": {
+              "projectPath": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Core\\WorkshopManagement.Core.csproj"
             },
-            "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\luisma\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj"
+            "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\lmper\\Documents\\WorkshopManagement\\WorkshopManagement\\WorkshopManagement.Infrastructure\\WorkshopManagement.Infrastructure.csproj"
             }
           }
         }
@@ -4831,7 +4831,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
