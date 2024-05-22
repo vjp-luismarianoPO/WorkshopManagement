@@ -145,6 +145,7 @@ C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagemen
 C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\bin\Debug\net8.0\appsettings.json
 C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\bin\Debug\net8.0\WorkshopManagement.Api.exe
@@ -293,4 +294,3 @@ C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManageme
 C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\obj\Debug\net8.0\WorkshopManagement.Api.pdb
 C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\obj\Debug\net8.0\WorkshopManagement.Api.genruntimeconfig.cache
 C:\Users\luisma\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\obj\Debug\net8.0\ref\WorkshopManagement.Api.dll
-C:\Users\lmper\Documents\WorkshopManagement\WorkshopManagement\WorkshopManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
