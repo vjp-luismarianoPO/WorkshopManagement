@@ -6,7 +6,7 @@ public partial class Accident
 
 	public string? Type { get; set; }
 
-	public DateTime? Date { get; set; }
+	public string? Date { get; set; } = DateTime.UtcNow.ToString();
 
 	public int? CompanyId { get; set; }
 

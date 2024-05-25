@@ -10,7 +10,6 @@ namespace WorkshopManagement.Infrastructure.Repositories
 		public AccidentRepository(WorkshopManagementDbContext context)
 		{
 			_context = context;
-
 		}
 		public async Task<IEnumerable<Accident>> GetAccidents()
 		{
@@ -42,7 +41,6 @@ namespace WorkshopManagement.Infrastructure.Repositories
 
 			int rows = await _context.SaveChangesAsync();
 			return rows > 0;
-
 		}
 
 		public async Task<bool> DeleteAccident(int id)
@@ -52,9 +50,6 @@ namespace WorkshopManagement.Infrastructure.Repositories
 
 			int rows = await _context.SaveChangesAsync();
 			return rows > 0;
-
 		}
-
-
 	}
 }

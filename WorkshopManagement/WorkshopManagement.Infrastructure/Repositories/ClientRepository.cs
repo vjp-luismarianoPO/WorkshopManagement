@@ -10,7 +10,6 @@ namespace WorkshopManagement.Infrastructure.Repositories
 		public ClientRepository(WorkshopManagementDbContext context)
 		{
 			_context = context;
-
 		}
 		public async Task<IEnumerable<Client>> GetClients()
 		{
@@ -40,10 +39,8 @@ namespace WorkshopManagement.Infrastructure.Repositories
 			currentClient.CarModel = client.CarModel;
 			currentClient.CompanyId = client.CompanyId;
 
-
 			int rows = await _context.SaveChangesAsync();
 			return rows > 0;
-
 		}
 
 		public async Task<bool> DeleteClient(int id)
@@ -53,7 +50,6 @@ namespace WorkshopManagement.Infrastructure.Repositories
 
 			int rows = await _context.SaveChangesAsync();
 			return rows > 0;
-
 		}
 	}
 }
